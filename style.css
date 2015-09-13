@@ -1,0 +1,18 @@
+/* Put your css in here */
+#outer {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+}
+
+#inner {
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  padding: 100px;
+}
+
+/* a {
+  display: inline-block;
+  margin: auto;
+} */
